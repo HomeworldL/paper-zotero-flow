@@ -1,0 +1,5 @@
+[
+  {"key":"DOIKEY01","version":10,"data":{"key":"DOIKEY01","title":"Published Paper","DOI":"10.1000/example","extra":"","itemType":"journalArticle"}},
+  {"key":"ARXIV01","version":11,"data":{"key":"ARXIV01","title":"Preprint Paper","DOI":"","extra":"arXiv: 2412.00174","itemType":"preprint"}},
+  {"key":"TITLE001","version":12,"data":{"key":"TITLE001","title":"Normalized: Paper Title","DOI":"","extra":"","itemType":"conferencePaper"}}
+]

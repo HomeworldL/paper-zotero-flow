@@ -1,0 +1,27 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+config.local.*
+*.local.toml
+
+# Runtime data, paper outputs and diagnostics
+runs/
+output/
+outputs/
+tmp/
+benchmark/
+.diagnostics/
+*.log
+*.pdf
+!skills/paper-download/tests/fixtures/valid-minimal.pdf
+
+# Caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

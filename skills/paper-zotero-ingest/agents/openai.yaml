@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Zotero Ingest"
+  short_description: "Archive verified paper files in Zotero"
+  default_prompt: "Use $paper-zotero-ingest to add this verified paper PDF or translation to my chosen Zotero collection."
+policy:
+  allow_implicit_invocation: true

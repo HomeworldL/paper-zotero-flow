@@ -1,0 +1,13 @@
+{
+  "DOI": "10.1000/published",
+  "title": ["Example Interactive Character"],
+  "author": [
+    {"given": "Ada", "family": "Lovelace"},
+    {"given": "Alan", "family": "Turing"}
+  ],
+  "published": {"date-parts": [[2026, 1, 2]]},
+  "container-title": ["Proceedings of Example Systems"],
+  "type": "proceedings-article",
+  "URL": "https://doi.org/10.1000/published",
+  "abstract": "<jats:p>An example abstract.</jats:p>"
+}

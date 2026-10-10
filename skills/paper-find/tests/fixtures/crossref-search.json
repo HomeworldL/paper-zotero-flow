@@ -1,0 +1,8 @@
+{
+  "message": {
+    "items": [
+      {"DOI": "10.1000/one", "title": ["Interactive Character Systems"], "score": 100},
+      {"DOI": "10.1000/two", "title": ["Interactive Characters System"], "score": 99}
+    ]
+  }
+}

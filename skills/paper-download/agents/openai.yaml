@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Download"
+  short_description: "Retrieve and validate lawful paper PDFs"
+  default_prompt: "Use $paper-download to retrieve and verify this paper PDF, then archive it unless I ask for local-only."
+policy:
+  allow_implicit_invocation: true

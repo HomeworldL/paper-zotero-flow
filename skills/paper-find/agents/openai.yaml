@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Find"
+  short_description: "Resolve known papers and canonical metadata"
+  default_prompt: "Use $paper-find to identify this paper and return its canonical metadata and lawful PDF candidates."
+policy:
+  allow_implicit_invocation: true

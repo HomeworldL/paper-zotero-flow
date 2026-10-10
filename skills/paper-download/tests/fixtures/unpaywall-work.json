@@ -1,0 +1,10 @@
+{
+  "doi": "10.1000/example",
+  "best_oa_location": {
+    "url_for_pdf": "https://repository.example.org/unpaywall.pdf",
+    "url": "https://repository.example.org/item",
+    "version": "acceptedVersion",
+    "host_type": "repository"
+  },
+  "oa_locations": []
+}

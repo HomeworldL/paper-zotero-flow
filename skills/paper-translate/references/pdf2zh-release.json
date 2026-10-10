@@ -1,0 +1,9 @@
+{
+  "version": "v2.9.0",
+  "asset": "pdf2zh-v2.9.0-BabelDOC-v0.6.4-with-assets-win64.zip",
+  "size": 621036226,
+  "sha256": "6916a2f299b029cfb75803c780528088d93e7694d5597c4250ba2dcf5598f1d8",
+  "url": "https://github.com/PDFMathTranslate-next/PDFMathTranslate-next/releases/download/v2.9.0/pdf2zh-v2.9.0-BabelDOC-v0.6.4-with-assets-win64.zip",
+  "upstream": "https://github.com/PDFMathTranslate-next/PDFMathTranslate-next",
+  "license": "AGPL-3.0"
+}

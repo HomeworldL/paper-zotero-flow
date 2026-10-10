@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Translate"
+  short_description: "Translate paper PDFs and attach the outputs"
+  default_prompt: "Use $paper-translate to create Chinese and bilingual PDFs and attach them to the same Zotero item."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,9 @@
+{
+  "id": "https://openalex.org/W123",
+  "best_oa_location": {
+    "pdf_url": "https://repository.example.org/openalex.pdf",
+    "landing_page_url": "https://repository.example.org/item",
+    "version": "publishedVersion"
+  },
+  "locations": []
+}

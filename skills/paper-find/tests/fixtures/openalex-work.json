@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W123",
+  "doi": "https://doi.org/10.1000/published",
+  "title": "Example Interactive Character",
+  "publication_year": 2026,
+  "primary_location": {
+    "landing_page_url": "https://example.org/paper",
+    "pdf_url": "https://repository.example.org/paper.pdf",
+    "source": {"display_name": "Example Venue"}
+  },
+  "best_oa_location": {
+    "landing_page_url": "https://repository.example.org/item",
+    "pdf_url": "https://repository.example.org/paper.pdf",
+    "version": "acceptedVersion"
+  },
+  "authorships": [
+    {"author": {"display_name": "Ada Lovelace"}}
+  ],
+  "open_access": {"is_oa": true}
+}
